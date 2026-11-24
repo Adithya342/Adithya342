@@ -27,7 +27,18 @@
 </p>
 
 ## 📂 My Work
+### 🎓 University Assignments
 
+- 📘 Web Technologies
+- 💻 Programming
+- 🗄️ Database Management
+- 🌐 Computer Networks
+
+### 🚀 My Projects
+
+- 🌟 Project 01 – Coming Soon
+- 🌟 Project 02 – Coming Soon
+- 🌟 Project 03 – Coming Soon
 - 📚 University Assignments
 - 💻 Programming Exercises
 - 🌐 Web Development Projects
