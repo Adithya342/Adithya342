@@ -1,71 +1,60 @@
-<h1 align="center">Hi 👋, I'm Adithya</h1>
+<div align="center">
 
-<h3 align="center">🚀 IT Student | Aspiring Software Engineer</h3>
+# 👋 Hi, I'm Adithya Fernando
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Passionate+about+Technology;Learning+and+Building+Projects;Future+Software+Engineer" />
-</p>
+### 🎓 IT Student | 💻 Aspiring Software Engineer
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0066FF,100:00C9FF&height=180&section=header&text=ADITHYA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+### 🚀 Dream Big | Code Better | Build the Future
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm an IT Student.
-- 💻 Passionate about Software Development.
-- 🌱 Currently improving my programming skills.
-- 📚 Sharing my University Assignments and Projects.
-- 🎯 My goal is to become a Software Engineer.
-- ⚡ I love learning new technologies.
-
----
+- 🎓 IT Student at RNU
+- 💻 Interested in Software Development
+- 🌱 Learning Web Development
+- 📚 Sharing University Assignments
+- 🎯 Aspiring Software Engineer
 
 ## 🛠️ Technologies & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
 </p>
-
----
 
 ## 📂 My Work
 
-- 🎓 University Assignments
+- 📚 University Assignments
 - 💻 Programming Exercises
 - 🌐 Web Development Projects
 - 🚀 Personal Projects
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adithya342&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adithya342&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya342&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya342&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Adithya342&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/Adithya342">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 ---
 
-<h3 align="center">✨ Keep Learning | Keep Building | Keep Growing ✨</h3>
+<div align="center">
 
-<p align="center">⭐ Thank you for visiting my profile! ⭐</p>
+### ⭐ Keep Learning | Keep Building | Keep Growing ⭐
+
+</div>
