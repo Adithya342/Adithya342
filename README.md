@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Adithya Fernando
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0057FF,100:00D4FF&height=220&section=header&text=ADITHYA%20FERNANDO&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20STUDENT%20%7C%20ASPIRING%20SOFTWARE%20ENGINEER&descAlignY=60&descSize=16"/>
 
-### 🎓 IT Student | 💻 Aspiring Software Engineer
+# 👋 Hello, I'm Adithya!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0066FF,100:00C9FF&height=180&section=header&text=ADITHYA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+### 💻 Aspiring Software Engineer | IT Student
 
-### 🚀 Dream Big | Code Better | Build the Future
+*Dream Big • Code Better • Build the Future*
 
 </div>
 
@@ -14,58 +14,84 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 IT Student at RNU
-- 💻 Interested in Software Development
-- 🌱 Learning Web Development
-- 📚 Sharing University Assignments
-- 🎯 Aspiring Software Engineer
+- 🎓 IT Student at RNU.
+- 💻 Passionate about Technology and Software Development.
+- 🌱 Continuously learning new programming skills.
+- 📚 Working on University Assignments.
+- 🚀 Building projects to improve my experience.
+- 🎯 Goal: Become a Professional Software Engineer.
 
-## 🛠️ Technologies & Tools
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode,mysql&perline=5"/>
 </p>
 
-## 📂 My Work
-### 🎓 University Assignments
+---
 
-- 📘 Web Technologies
-- 💻 Programming
-- 🗄️ Database Management
-- 🌐 Computer Networks
+## 🎓 University Work
 
-### 🚀 My Projects
+| Category | Description |
+|---|---|
+| 📘 Assignments | University Homework |
+| 💻 Programming | Coding Exercises |
+| 🌐 Web Development | Web Projects |
+| 🗄️ Database | Database Practice |
 
-- 🌟 Project 01 – Coming Soon
-- 🌟 Project 02 – Coming Soon
-- 🌟 Project 03 – Coming Soon
-- 📚 University Assignments
-- 💻 Programming Exercises
-- 🌐 Web Development Projects
-- 🚀 Personal Projects
+---
+
+## 🚀 Featured Projects
+
+> My projects will be showcased here as I continue building.
+
+- 🔹 University Projects
+- 🔹 Web Development Projects
+- 🔹 Programming Projects
+
+---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adithya342&show_icons=true&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya342&layout=compact&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adithya342&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya342&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Adithya342&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <a href="https://github.com/Adithya342">
-<img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Keep Learning | Keep Building | Keep Growing ⭐
+### 💙 Keep Learning. Keep Building. Keep Growing.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0057FF,100:050505&height=100&section=footer"/>
+
+**Thanks for visiting my profile! ⭐**
 
 </div>
